@@ -9,7 +9,7 @@ const config: Config = {
   favicon: "img/knowledge.png",
 
   // Set the production url of your site here
-  url: "https://d3ryan.github.io",
+  url: "https://d3ryan.github.io/features-knowledge/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
