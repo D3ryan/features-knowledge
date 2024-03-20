@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfeatures_and_knowledge=self.webpackChunkfeatures_and_knowledge||[]).push([[6738],{640:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/features-knowledge/blog/tags/greetings","allTagsPath":"/features-knowledge/blog/tags","count":1,"unlisted":false}')}}]);
