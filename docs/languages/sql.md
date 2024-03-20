@@ -22,7 +22,7 @@ sidebar_position: 3
 
 SQL is widely used in software development, data analysis, and database administration due to its simplicity, flexibility, and widespread adoption across various database platforms.
 
-### SQL Example: Selecting Data
+### Example
 
 ```sql
 -- Create a table
